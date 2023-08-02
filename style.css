@@ -1,0 +1,31 @@
+.nom{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+     font-family: sans-serif;
+      height: 200px;
+      width: 500px;
+      background-color:rgb(218, 205, 205);
+      margin: auto;
+      margin-top: 0px;
+      padding: 20px;
+  }
+  h3{
+    text-align:center  ;
+  }
+  span {
+      font-size: 96px;
+    }
+    .snom{
+      display: flex;
+      justify-content: center;
+      height: 60px;
+      width: 130px;
+      top : 60px;
+      position:absolute; 
+      right:520px;
+       top:95px;
+      background-color:rgb(227, 237, 20);
+      border-radius: 10%;
+      rotate: -15deg;
+    }
